@@ -1,0 +1,15 @@
+.body_backgorund 
+{
+    background-image:url(h0ye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+ border-style: ridge;
+ border-width: 15px;
+ background-color: white;
+ border-color: firebrick; 
+}
+
+
